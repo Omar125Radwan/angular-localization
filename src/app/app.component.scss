@@ -1,0 +1,22 @@
+.english {
+  text-align: left;
+  direction: ltr;
+  width: 100%;
+}
+.arabic {
+  text-align: right;
+  direction: rtl;
+  width: 100%;
+}
+.btn-lang {
+  padding: 10px;
+  margin: 5px;
+  background-color: #f04304;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  &.active {
+    background-color: #101010 !important;
+  }
+}

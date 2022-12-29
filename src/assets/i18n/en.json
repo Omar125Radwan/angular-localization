@@ -1,0 +1,14 @@
+{
+  "website": "website title",
+  "header": {
+    "menu": {
+      "home": "Home",
+      "about": "About Us"
+    },
+    "siteName": "Angular Translation Project"
+  },
+  "languages": {
+    "english": "English",
+    "arabic": "Arabic"
+  }
+}
